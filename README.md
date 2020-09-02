@@ -1,1 +1,2 @@
-# ML_Internship_Project
+# Machine Learning Internship Project
+by Mayur Patil
