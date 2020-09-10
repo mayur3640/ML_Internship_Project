@@ -84,9 +84,9 @@ EDA: Study the data distribution in each attribute and target variable, share yo
 
 # Certificates 
 
-![machine learning internhsip course]()
+![machine learning internhsip course](Internship certificate - Internship Studio.jpg)
 
-![internship certificate internshipstdio]()
+![internship certificate internshipstdio](Training certificate - Internship Studio.jpg)
 
 
 
