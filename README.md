@@ -1,5 +1,5 @@
 # Internship_Banking_ML_Project
-![machine learning internship](https://user-images.githubusercontent.com/50301680/92317966-d9fd5000-f023-11ea-8d8e-cbf81ef556ff.png)
+![Machine Learning Internship - InternshipStudio](https://user-images.githubusercontent.com/50301680/92317966-d9fd5000-f023-11ea-8d8e-cbf81ef556ff.png)
 
 <h2>Project Title:</h2>
 
@@ -84,9 +84,9 @@ EDA: Study the data distribution in each attribute and target variable, share yo
 
 # Certificates 
 
-![machine learning internhsip course](Internship certificate - Internship Studio.jpg)
+![Machine learning Internship - Training Certificate](https://github.com/mayur3640/ML_Internship_Project/blob/master/Training%20certificate%20-%20Internship%20Studio.jpg)
 
-![internship certificate internshipstdio](https://github.com/mayur3640/ML_Internship_Project/blob/master/Internship%20certificate%20-%20Internship%20Studio.jpg)
+![Machine learning Internship - Certificate](https://github.com/mayur3640/ML_Internship_Project/blob/master/Internship%20certificate%20-%20Internship%20Studio.jpg)
 
 
 
