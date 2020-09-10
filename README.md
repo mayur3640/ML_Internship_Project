@@ -11,7 +11,9 @@
 
 Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.</p>
 
-# Data: https://www.kaggle.com/itsmesunil/bank-loan-modelling/download
+# Data: 
+
+https://www.kaggle.com/itsmesunil/bank-loan-modelling/download
 
 # Context:
 
