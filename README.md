@@ -1,5 +1,5 @@
 # Internship_Banking_ML_Project
-![Machine Learning Internship - InternshipStudio](https://user-images.githubusercontent.com/50301680/92317966-d9fd5000-f023-11ea-8d8e-cbf81ef556ff.png)
+![Machine Learning Internship - InternshipStudio](https://github.com/mayur3640/ML_Internship_Project/blob/master/Logo.png)
 
 <h2>Project Title:</h2>
 
